@@ -1,4 +1,5 @@
 package de.unitrier.st.fst17.list;
+// GitHub-Benutzername: Fahaba
 
 /**
  * Doppelt verkettete Liste.
